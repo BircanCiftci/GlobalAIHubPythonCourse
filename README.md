@@ -1,7 +1,7 @@
 # GlobalAIHubPythonCourse
 Python Kursu Projelerim
 # GAIH Student Repo Example
-![](img/logo.png)
+![](C:\Users\Alfa\Desktop/img/logo.png)
 
 **Course Date:** DD.MM.YYYY  
 **Name:** Mert  
