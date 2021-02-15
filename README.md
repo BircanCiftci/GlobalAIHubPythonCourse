@@ -1,5 +1,5 @@
 # GlobalAIHubPythonCourse
-![](/img/logo.png)
+![](/raw.githubusercontent.com/globalaihub/gaih-students-repo-example/main/img/logo.png)
 
 **Course Date:** DD.MM.YYYY  
 **Name:** Mert  
