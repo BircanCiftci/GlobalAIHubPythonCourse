@@ -1,0 +1,2 @@
+# GlobalAIHubPythonCourse
+Python Kursu Projelerim
